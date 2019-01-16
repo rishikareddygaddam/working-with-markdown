@@ -90,7 +90,7 @@ dcase@nwmissouri.edu
 
 ## New Section
 
-![Hosted image](https://github.com/rishikareddygaddam/working-with-markdown/blob/master/MiniPoodlePup.jpg "Puppies")
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MiniPoodlePup.jpg/800px-MiniPoodlePup.jpg "Puppies")
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MiniPoodlePup.jpg/800px-MiniPoodlePup.jpg)
 
