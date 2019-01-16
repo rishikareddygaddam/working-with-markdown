@@ -91,3 +91,8 @@ dcase@nwmissouri.edu
 ## New Section
 
 ![Hosted image](https://github.com/rishikareddygaddam/working-with-markdown/blob/master/MiniPoodlePup.jpg "Puppies")
+
+## About Me
+
+Rishika Reddy Gaddam
+
