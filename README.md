@@ -90,4 +90,4 @@ dcase@nwmissouri.edu
 
 ## New Section
 
-![Hosted Image](https://en.wikipedia.org/wiki/Puppy#/media/File:MiniPoodlePup.jpg "Puppies")
+![Hosted image](https://en.wikipedia.org/wiki/Puppy#/media/File:MiniPoodlePup.jpg "Puppies")
