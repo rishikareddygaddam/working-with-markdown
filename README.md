@@ -89,3 +89,5 @@ Denise Case
 dcase@nwmissouri.edu
 
 ## New Section
+
+! [My Image](https://en.wikipedia.org/wiki/Puppy#/media/File:MiniPoodlePup.jpg "Puppies")
