@@ -100,3 +100,14 @@ dcase@nwmissouri.edu
 
 Rishika Reddy **Gaddam**
 
+## Friends
+
+1. Pratyusha
+1. Lavanya
+1. Manoj
+1. Bhaga
+
+## Professors
+
+- Ajay bandi
+- Dennis Case
