@@ -94,7 +94,7 @@ dcase@nwmissouri.edu
 
 ## For more info on puppies go to
 
-- [Webpage](https://en.wikipedia.org/wiki/Puppy "Puppies info")
+- [Puppies](https://en.wikipedia.org/wiki/Puppy "Puppies info")
 
 ## About Me
 
