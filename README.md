@@ -96,5 +96,5 @@ dcase@nwmissouri.edu
 
 ## About Me
 
-Rishika Reddy Gaddam
+Rishika Reddy **Gaddam**
 
