@@ -114,4 +114,4 @@ Rishika Reddy **Gaddam**
 
 ## Local Image
 
-![local image]()
+![local image](https://github.com/rishikareddygaddam/working-with-markdown/blob/master/IMG_2702.JPG?raw=true "my picture")
