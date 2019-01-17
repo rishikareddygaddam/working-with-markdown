@@ -92,7 +92,9 @@ dcase@nwmissouri.edu
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MiniPoodlePup.jpg/800px-MiniPoodlePup.jpg "Puppies")
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MiniPoodlePup.jpg/800px-MiniPoodlePup.jpg)
+## For more info on puppies go to
+
+- [Webpage](https://en.wikipedia.org/wiki/Puppy "Puppies info")
 
 ## About Me
 
